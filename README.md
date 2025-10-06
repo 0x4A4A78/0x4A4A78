@@ -3,7 +3,6 @@
 GitHub นี้สร้างขึ้นเพื่อรวบรวมผลงานเกี่ยวกับ **FiveM Projects**  
 เน้นการแบ่งปัน **Script ฟรี**, เครื่องมือ, และระบบต่างๆ
 
-> "Coding is not just my work — it's my passion to create and share."
 
 ---
 

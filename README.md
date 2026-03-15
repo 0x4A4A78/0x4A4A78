@@ -15,8 +15,8 @@ GitHub นี้สร้างขึ้นเพื่อรวบรวมผ�
 ---
 
 ### 📫 Contact Me
-- **Discord**: `.jing.jok.`  
-- **Facebook**: [jingjok diff](https://www.facebook.com/Jingjok.diff.1/)  
+- **Discord**: `0x4a4a78`  
+- **Facebook**: [jingjok pk](https://www.facebook.com/Jingjok.diff.1/)  
 - Feel free to reach out for **custom scripts** or **collaboration**!
 
 ---

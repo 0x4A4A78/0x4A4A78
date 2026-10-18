@@ -1,49 +1,48 @@
-# 💻 NAME | **JINGJOK**
+# 👋 Hi, I'm JINGJOK
 
-GitHub นี้สร้างขึ้นเพื่อรวบรวมผลงานเกี่ยวกับ **FiveM Projects**  
-เน้นการแบ่งปัน **Script ฟรี**, เครื่องมือ, และระบบต่างๆ
+I’m a developer and builder who enjoys creating useful software, experimenting with new technologies, and sharing what I learn.
 
+This profile is a collection of my projects, experiments, tools, and open-source work — from web development and automation to game-server systems.
 
----
+## 🧠 About Me
 
-### 🧠 About Me
-- **Focus**: FiveM / ESX Development  
-- **Skills**:  
-  `Lua` · `HTML` · `CSS` · `JavaScript` · `Node.js` · `React` · `SQL` · `MongoDB` · `Server Management`  
-- **Purpose**: Share knowledge, help others, and build cool stuff!
+- **Interests:** Software development, web applications, automation, and system design
+- **Currently exploring:** Full-stack development and practical tools that solve real problems
+- **Experience with:** FiveM / ESX projects, web interfaces, backend systems, and server management
+- **Goal:** Share knowledge, build useful things, and keep improving through every project
 
----
+## 🛠️ Tech Stack
 
-### 📫 Contact Me
-- **Discord**: `0x4a4a78`  
-- **Facebook**: [jingjok pk](https://www.facebook.com/Jingjok.diff.1/)  
-- Feel free to reach out for **custom scripts** or **collaboration**!
-
----
-
-If you like my work, don’t forget to ⭐ **star** the repo!  
-Support me by sharing my scripts with your friends ❤️
-
----
-
-### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM-FF8800?style=for-the-badge&logo=rockstar-games&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
----
+## 🚀 What I Build
 
-### 📊 GitHub Stats
+- Full-stack web applications and responsive interfaces
+- Developer tools, automation, and custom utilities
+- Backend services, databases, and server-side systems
+- FiveM / ESX resources as one part of my broader development work
+- Experiments, prototypes, and open-source projects
+
+## 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x4A4A78&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
----
+## 📫 Contact Me
+
+- **Discord:** `0x4a4a78`
+- **Facebook:** [jingjok](https://www.facebook.com/Jingjok.diff.1/)
+- Open to custom development, collaboration, and interesting ideas
+
+If you find something useful here, consider leaving a ⭐ or sharing it with someone who might enjoy it. ❤️
